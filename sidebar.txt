@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aps:home|Door43 (aps)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aps|d43-aps repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aps/archive/master.zip|d43-aps.zip]]
+
+**Recent Changes**
+{{changes>ns = aps}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aps|Ethnologue data]]
+
